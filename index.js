@@ -4,5 +4,5 @@ function destructivelyAppendDriver() {
  drivers.push("Ralph"); 
 }
 function destructivelyPrependDriver(name) {
-  drivers.prepen("Jane");
+  drivers.prepend("Jane");
 }
